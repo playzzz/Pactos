@@ -14,4 +14,4 @@ Mayoría absoluta: 21
 | Ciutadans | Cs | 5 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/Cs.jpg?raw=true)
 | Partido Socialista de Catalunya | PSC | 4 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/PSOE.jpg?raw=true)
 | Partido Popular | PP | 3 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/PP.jpg?raw=true)
-| Candidatura d'Unió Popular | CUP | 3 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/CUP.jpg?raw=true)
+| Candidatura d'Unitat Popular | CUP | 3 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/CUP.jpg?raw=true)
