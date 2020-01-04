@@ -17,4 +17,4 @@ Además, si no te crees lo que dice el CIS de Tezanos, ahora puedes votar y ver 
 
 ## Base de Datos
 
-Aquí encontrarás todos los resultados de todas las elecciones acontecidas en España, si bien es difícil añadirlas todas, puedes ontribuir a añadirlas tú mismx haciendo una Pull Request.
+En la [Base de Datos](https://github.com/playzzz/Pactos/tree/master/Base%20de%20Datos) encontrarás todos los resultados de todas las elecciones acontecidas en España, si bien es difícil añadirlas todas, puedes ontribuir a añadirlas tú mismx haciendo una Pull Request.
