@@ -19,6 +19,6 @@ Mayoría absoluta: 176
 | Junts per Catalunya | JxCat | 4-6 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/JxCat.jpg?raw=true)
 | Más País | Más País | 3-4 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/Más%20País.jpg?raw=true)
 | Navarra Suma | NA+ | 2 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/NA+.jpg?raw=true)
-| Candidatura d'Unió Popular | CUP | 1-2 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/CUP.jpg?raw=true)
+| Candidatura d'Unitat Popular | CUP | 1-2 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/CUP.jpg?raw=true)
 | Coalición Canaria-Nueva Canaria | CC-NC | 1-2 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/CC-NC.jpg?raw=true)
 | Partido Regionalista Cántabro | PRC | 0-1 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/PRC.jpg?raw=true)
