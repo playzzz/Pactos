@@ -1,4 +1,4 @@
-# Elecciones Municipales de Barcelona 10N - 2019
+# Elecciones Municipales de Barcelona 26M - 2019
 
 Total escaños: 41
 
