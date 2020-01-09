@@ -1,12 +1,10 @@
 # Pactos
 
-¿Harto de tener que hacer cálculos a mano para saber quién gobernará el país tras las elecciones generales de 2019 en España? ¿Eres un lider de un partido y no tienes claro con quién unir tus escaños? ¿Te ha dado envidia Ferreras con su aplicación y también quieres probar? ¡Tus plegarias han sido escuchadas!
+¿Hartx de tener que hacer cálculos a mano para saber quién gobernará el país tras las elecciones generales de 2019 en España? ¿Eres unx lider de un partido y no tienes claro con quién unir tus escaños? ¿Te ha dado envidia Ferreras con su aplicación y también quieres probar? ¡Tus plegarias han sido escuchadas!
 
 Ya está disponible Pactos, la perfecta calculadora de pactos, que te ayudará a calcular de forma precisa e instantánea quién será presidente del gobierno con todos los posibles pactos electorales.
 
-Esta versión del genuino pactómetro de Al Rojo vivo, de La sexta, es un pequeño homenaje a la aplicación más divertida de las elecciones españolas. No importa si votaste PP, PSOE, Unidos Podemos, Ciudadanos, Vox, Más País o cualquier otro partido, ¡ésta es tu aplicación!
-
-Con encuestas para las generales del 10 de noviembre.
+Esta versión del genuino pactómetro de Al Rojo Vivo, de laSexta, es un pequeño homenaje a la aplicación más divertida de las elecciones españolas. No importa si votaste PP, PSOE, Unidas Podemos, Ciudadanos, Vox, Más País o cualquier otro partido, ¡ésta es tu aplicación!
 
 Además, si no te crees lo que dice el CIS de Tezanos, ahora puedes votar y ver las tendencias de voto de los usuarios de Pactos en tiempo real. ¡Ayuda a crear por fin una encuesta que refleje la realidad de voto!
 
