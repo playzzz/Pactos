@@ -9,7 +9,7 @@ Mayoría absoluta: 21
 | Partido | Abreviatura | Escaños | Logo |
 | - | - | - | - |
 | Esquerra Republicana de Catalunya | ERC | 10 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/ERC.jpg?raw=true)
-| En Comú Podem | ECP | 10 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/ECP.jpg?raw=true)
+| Barcelona En Comú | BxC | 10 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/ECP.jpg?raw=true)
 | Partido Socialista de Catalunya | PSC | 8 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/PSC.jpg?raw=true)
 | Ciudadanos | Cs | 6 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/Cs.jpg?raw=true)
 | Junts per Catalunya | JxCat | 5 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/JxCat.jpg?raw=true)
