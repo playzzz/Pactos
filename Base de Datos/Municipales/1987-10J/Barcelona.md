@@ -1,17 +1,14 @@
 # Elecciones Municipales de Barcelona 10J - 1987
 
-Total escaños: 41
+Total escaños: 43
 
-Mayoría absoluta: 21
+Mayoría absoluta: 22
 
 ## Resultados
 
 | Partido | Abreviatura | Escaños | Logo |
 | - | - | - | - |
-| Barcelona En Comú | BxC | 11 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/ECP.jpg?raw=true)
-| Convergència i Unió | CiU | 8 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/CIU.jpg?raw=true)
-| Esquerra Republicana de Catalunya | ERC | 5 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/ERC.jpg?raw=true)
-| Ciutadans | Cs | 5 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/Cs.jpg?raw=true)
-| Partido Socialista de Catalunya | PSC | 4 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/PSC.jpg?raw=true)
-| Partido Popular | PP | 3 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/PP.jpg?raw=true)
-| Candidatura d'Unitat Popular | CUP | 3 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/CUP.jpg?raw=true)
+| Partit Socialista de Catalunya | PSC | 21| [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/PSC.jpg?raw=true)
+| Convergència i Unió | CiU | 17 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/CIU.jpg?raw=true)
+| Alianza Popular | AP | 3 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/AP.jpg?raw=true)
+| Iniciativa per Catalunya Verds-Esquerra Unida i Alternativa | ICV-EUiA | 2 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/ICV.jpg?raw=true)
