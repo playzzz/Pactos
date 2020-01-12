@@ -8,10 +8,8 @@ Mayoría absoluta: 21
 
 | Partido | Abreviatura | Escaños | Logo |
 | - | - | - | - |
-| Barcelona En Comú | BxC | 11 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/ECP.jpg?raw=true)
-| Convergència i Unió | CiU | 8 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/CIU.jpg?raw=true)
-| Esquerra Republicana de Catalunya | ERC | 5 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/ERC.jpg?raw=true)
-| Ciutadans | Cs | 5 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/Cs.jpg?raw=true)
-| Partido Socialista de Catalunya | PSC | 4 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/PSC.jpg?raw=true)
-| Partido Popular | PP | 3 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/PP.jpg?raw=true)
-| Candidatura d'Unitat Popular | CUP | 3 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/CUP.jpg?raw=true)
+| Convergència i Unió | CiU | 15 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/CIU.jpg?raw=true)
+| Partido Socialista de Catalunya | PSC | 11 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/PSC.jpg?raw=true)
+| Partido Popular | PP | 8 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/PP.jpg?raw=true)
+| Iniciativa per Catalunya Verds-Esquerra Unida i Alternativa | ICV-EUiA | 5 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/ICV.jpg?raw=true)
+| Unitat per Barcelona | UpB | 2 | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/UpB.jpg?raw=true)
