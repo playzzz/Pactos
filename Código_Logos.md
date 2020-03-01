@@ -1,6 +1,7 @@
 # Logos
 
 | Partido | Abreviatura o Código | Logo |
+| - | - | - |
 | #éselmoment | #éselmoment | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/#éselmoment.jpg?raw=true) |
 | - | AGE | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/AGE.jpg?raw=true) |
 | - | AHI-CC | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/AHI-CC.jpg?raw=true) |
