@@ -120,6 +120,6 @@
 | Unión del Pueblo Navarro | UPN | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/UPN.jpg?raw=true) |
 | Unión Progreso y Democracia | UPyD | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/UPyD.jpg?raw=true) |
 | Unión Valencianista | UV | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/UV.jpg?raw=true) |
-| Unidad Popular | Unidad Popular | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/Unidad Popular.jpg?raw=true) |
+| Unidad Popular | Unidad Popular | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/Unidad%20Popular.jpg?raw=true) |
 | - | UpB | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/UpB.jpg?raw=true) |
 | VOX | VOX | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/VOX.jpg?raw=true) |
