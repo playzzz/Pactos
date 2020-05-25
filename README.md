@@ -10,7 +10,7 @@ Además, si no te crees lo que dice el CIS de Tezanos, ahora puedes votar y ver 
 
 [Web oficial](https://yaikostudio.com/pactos/)
 
-[<img src="https://akaud.com/wp-content/uploads/disponible-google-play.png" width="150"/>](https://play.google.com/store/apps/details?id=com.antonionicolaspina.pact_o_meter)
+[<img src="https://es.logodownload.org/wp-content/uploads/2019/06/disponible-en-google-play-badge-1.png" width="150"/>](https://play.google.com/store/apps/details?id=com.antonionicolaspina.pact_o_meter)
 [<img src="https://cdn.popsa.io/website/images/badges/appstore-es.png" width="150"/>](https://apps.apple.com/app/id1484260822)
 
 ## Base de Datos
