@@ -59,11 +59,13 @@
 | Iniciativa per Catalunya Verds | ICV | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/ICV.jpg?raw=true) |
 | Izquierda Unida | IU | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/IU.jpg?raw=true) |
 | Izquierda Ezkerra | Izquierda Ezkerra | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/Izquierda%20Ezkerra.jpg?raw=true) |
+| Junts | Junts | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/Junts.jpg?raw=true) |
 | Junts per Catalunya | JxCat | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/JxCat.jpg?raw=true) |
 | Junts pel Sí | JxSí | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/JxSí.jpg?raw=true) |
 | Los Pueblos Deciden | LPD | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/LPD.jpg?raw=true) |
 | Movimiento por la Dignidad y la Ciudadanía | MDyC | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/MDyC.jpg?raw=true) |
 | Más Madrid | MM | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/MM.jpg?raw=true) |
+| Marea Galeguista | Marea Galeguista | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/Marea%20Galeguista.jpg?raw=true) |
 | MÉS MALLORCA | MÉS MALLORCA | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/MÉS%20MALLORCA.jpg?raw=true) |
 | MÉS MENORCA | MÉS MENORCA | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/MÉS%20MENORCA.jpg?raw=true) |
 | MÉS | MÉS | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/MÉS.jpg?raw=true) |
@@ -89,7 +91,7 @@
 | Partido Popular | PP | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/PP.jpg?raw=true) |
 | Partido Populares en Libertad | PPL | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/PPL.jpg?raw=true) |
 | Partido Riojano | PR+ | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/PR+.jpg?raw=true) |
-| PArtido Regionalista Cántabro | PRC | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/PRC.jpg?raw=true) |
+| Partido Regionalista Cántabro | PRC | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/PRC.jpg?raw=true) |
 | Partit dels Socialistes a Catalunya | PSC | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/PSC.jpg?raw=true) |
 | Partido Socialista Galego-Esquerda Galega | PSG-EG | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/PSG-EG.jpg?raw=true) |
 | Partit Socialista de Mallorca | PSM | [Logo](https://github.com/playzzz/Pactos/blob/master/Logos/PSM.jpg?raw=true) |
